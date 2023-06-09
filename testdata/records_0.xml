@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rm="http://rijksmuseum.nl/collection" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2023-06-08T15:00:07Z</responseDate>
+  <request verb="ListRecords" set="subject:EntirePublicDomainSet" metadataPrefix="dc" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:europeana="http://www.europeana.eu/schemas/ese/">https://www.rijksmuseum.nl/api/oai/XmaDghie</request>
+  <ListRecords xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:europeana="http://www.europeana.eu/schemas/ese/">
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3580</identifier>
+        <datestamp>2023-05-24T16:31:22Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6274</dc:identifier>
+          <dc:identifier>SK-A-3580</dc:identifier>
+          <dc:title>De Singelbrug bij de Paleisstraat in Amsterdam</dc:title>
+          <dc:creator>Breitner, George Hendrik</dc:creator>
+          <dc:subject>Paleisstraat</dc:subject>
+          <dc:subject>Singel</dc:subject>
+          <dc:description>Breitner maakte vaak zelf fotoâs als voorbereiding op zijn schilderijen. Ook van dit schilderij is een aantal van zulke voorstudies bekend. De manier waarop de vrouw recht op ons af loopt en de afsnijding van het beeld doen heel fotografisch aan. Aanvankelijk was hier een dienstmeid geschilderd, maar na een negatieve kritiek vond de kunsthandel die zijn schilderijen verkocht het maar beter dat Breitner er een dame van maakte.</dc:description>
+          <dc:date>1896</dc:date>
+          <dc:date>1898</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>olieverf</dc:format>
+          <dc:format>doek</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Amsterdam</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1718</identifier>
+        <datestamp>2023-01-26T13:31:07Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5853</dc:identifier>
+          <dc:identifier>SK-A-1718</dc:identifier>
+          <dc:title>Winterlandschap met schaatsers</dc:title>
+          <dc:creator>Avercamp, Hendrick</dc:creator>
+          <dc:description>Door het hoge standpunt is het schilderij een staalkaart van menselijke â en dierlijke â activiteiten tijdens een strenge winter. Honderden mensen zijn op het ijs te vinden; de meeste voor het vermaak, andere zijn uit bittere noodzaak aan het werk. Avercamp schuwt het lugubere detail niet: links op de voorgrond doen kraaien en een hondje zich tegoed aan het karkas van een doodgevroren paard.</dc:description>
+          <dc:date>ca.Â 1608</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4</identifier>
+        <datestamp>2023-06-01T18:56:14Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5829</dc:identifier>
+          <dc:identifier>SK-A-4</dc:identifier>
+          <dc:title>De bedreigde zwaan</dc:title>
+          <dc:creator>Asselijn, Jan</dc:creator>
+          <dc:subject>politieke geschiedenis</dc:subject>
+          <dc:subject>Rampjaar</dc:subject>
+          <dc:subject>Noordelijke Nederlanden</dc:subject>
+          <dc:subject>Frankrijk</dc:subject>
+          <dc:subject>Engeland</dc:subject>
+          <dc:subject>MÃ¼nster</dc:subject>
+          <dc:subject>Keulen</dc:subject>
+          <dc:subject>Witt, Johan de</dc:subject>
+          <dc:subject>Republiek der Zeven Verenigde Nederlanden</dc:subject>
+          <dc:description>Energiek verdedigt een zwaan haar nest tegen een hond. Het gevecht werd in latere eeuwen politiek geduid: de witte zwaan werd opgevat als de in 1672 vermoorde staatsman Johan de Witt, die het land verdedigt tegen zijn vijanden. Met die interpretatie kwam het schilderij in 1800 als eerste aankoop in de Nationale Kunstgalerij (de voorloper van het Rijksmuseum) terecht.</dc:description>
+          <dc:date>ca.Â 1650</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3584</identifier>
+        <datestamp>2023-06-01T12:56:25Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6250</dc:identifier>
+          <dc:identifier>SK-A-3584</dc:identifier>
+          <dc:title>Meisje in witte kimono</dc:title>
+          <dc:creator>Breitner, George Hendrik</dc:creator>
+          <dc:subject>Kwak, Geesje</dc:subject>
+          <dc:description>GeÃ¯nspireerd door Japanse prenten schilderde Breitner tussen 1893 en 1896 dertien schilderijen van een meisje in kimono. Zij heeft steeds een andere houding en de kimono verschilt van kleur. De blikvanger hier is de geborduurde witzijden kimono met de rood afgezette mouwen en oranjekleurige ceintuur. Het dromerige meisje is de zestienjarige Geesje Kwak, een naaister en een van Breitners vaste modellen.</dc:description>
+          <dc:date>1894</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>olieverf</dc:format>
+          <dc:format>doek</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Amsterdam</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-404</identifier>
+        <datestamp>2023-04-26T13:33:01Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6153</dc:identifier>
+          <dc:identifier>SK-A-404</dc:identifier>
+          <dc:title>Galante conversatie, bekend als âDe vaderlijke vermaningâ</dc:title>
+          <dc:creator>Borch, Gerard ter (II)</dc:creator>
+          <dc:description>Met gevoel voor psychologie schilderde Ter Borch hier drie figuren in een slaapvertrek. De jongeman is op bezoek, het zwaard nog aan de gordel, de hoed op zijn schoot. Met het sprekende gebaar van zijn opgeheven hand kijkt hij vol belangstelling naar het meisje in de schitterende satijnen jurk. Stelt hij een oneerbare vraag? De reactie van het meisje blijft voor ons verborgen.</dc:description>
+          <dc:date>ca.Â 1654</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1365</identifier>
+        <datestamp>2021-10-01T21:48:19Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6374</dc:identifier>
+          <dc:identifier>SK-A-1365</dc:identifier>
+          <dc:title>De zeeslag bij Terheide</dc:title>
+          <dc:creator>Velde, Willem van de (I)</dc:creator>
+          <dc:subject>maritieme geschiedenis</dc:subject>
+          <dc:subject>militaire geschiedenis</dc:subject>
+          <dc:subject>zeeslag</dc:subject>
+          <dc:subject>Zeeslag bij Terheide</dc:subject>
+          <dc:subject>Eerste Engelse Oorlog</dc:subject>
+          <dc:subject>Ter Heijde</dc:subject>
+          <dc:subject>Tromp, Maarten Harpertszoon</dc:subject>
+          <dc:subject>Monck, George (hertog van Albemarle)</dc:subject>
+          <dc:description>Om de Nederlandse bevelhebber Maerten Harpertsz Tromp te herdenken bestelde zijn familie bij Willem van de Velde een serie penschilderijen van zijn memorabele zeeslagen. Ze zijn op doek getekend met pen en inkt en lijken op accurate, betrouwbare gravures. Van de Velde was aanwezig tijdens de Slag bij Terheide in 1653. De tekeningen die hij aan boord maakte, werkte hij uit in het penschilderij.</dc:description>
+          <dc:date>1657</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:type>penschildering</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>inkt</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3064</identifier>
+        <datestamp>2023-05-24T16:51:14Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6433</dc:identifier>
+          <dc:identifier>SK-A-3064</dc:identifier>
+          <dc:title>Portret van een meisje in het blauw</dc:title>
+          <dc:creator>Verspronck, Johannes Cornelisz.</dc:creator>
+          <dc:description>Wat maakte dit toch tot zoân populaire beeltenis? Dat het een leuk kind voorstelt, in haar mooiste kleren? Het meisje werd, zoals toen gebruikelijk was, neergezet als kleine volwassen dame. Alleen haar gezichtsuitdrukking verraadt dat ze die rol maar speelt. Helaas kennen we haar naam niet en weten we niets van haar familie. Misschien woonde ze net als de portretschilder Verspronck in Haarlem.</dc:description>
+          <dc:date>1641</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2860</identifier>
+        <datestamp>2023-06-07T08:13:19Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6419</dc:identifier>
+          <dc:identifier>SK-A-2860</dc:identifier>
+          <dc:title>Gezicht op huizen in Delft, bekend als âHet straatjeâ</dc:title>
+          <dc:creator>Vermeer, Johannes</dc:creator>
+          <dc:subject>Delft</dc:subject>
+          <dc:description>Een ongewoon schilderij in Vermeers oeuvre, en als portret van gewone huizen ook bijzonder voor zijn tijd. De compositie is even spannend als evenwichtig. De oude muren met bakstenen, witkalk en scheuren zijn bijna tastbaar. De locatie is Vlamingstraat 40â42 in Delft. In het rechterhuis woonde Vermeers tante Ariaentgen Claes met haar kinderen, van ongeveer 1645 tot haar dood in 1670.</dc:description>
+          <dc:date>ca.Â 1658</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-109</identifier>
+        <datestamp>2023-01-30T13:46:51Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6193</dc:identifier>
+          <dc:identifier>SK-C-109</dc:identifier>
+          <dc:title>Italiaans landschap met tekenaar</dc:title>
+          <dc:creator>Both, Jan</dc:creator>
+          <dc:description>Over zoân groot schilderij kan de blik ronddwalen. Als we de weg volgen, de brug over, zien we in de verte een welgestelde reiziger in een draagstoel. Muilezels dragen zijn bagage. Met de tekenaar voor de brug bij de waterval wil Both ons doen geloven dat hij het allemaal naar de werkelijkheid heeft geschilderd. Maar toch werd deze voorstelling thuis samengesteld.</dc:description>
+          <dc:date>ca.Â 1650Â -Â 1652</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2344</identifier>
+        <datestamp>2023-06-07T08:13:15Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6417</dc:identifier>
+          <dc:identifier>SK-A-2344</dc:identifier>
+          <dc:title>Het melkmeisje</dc:title>
+          <dc:creator>Vermeer, Johannes</dc:creator>
+          <dc:description>Geheel verdiept in haar werk schenkt een dienstmeisje melk in. Behalve de witte melkstraal lijkt niets te bewegen. Die alledaagse handeling balde Vermeer samen tot een indrukwekkend schilderij â als een beeld staat de figuur vrij in de lichte ruimte. Vermeer had oog voor hoe het licht in honderden kleurige puntjes over de voorwerpen speelt.</dc:description>
+          <dc:date>ca.Â 1660</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-799</identifier>
+        <datestamp>2022-09-30T09:54:11Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6117</dc:identifier>
+          <dc:identifier>SK-A-799</dc:identifier>
+          <dc:title>Stilleven met bloemen</dc:title>
+          <dc:creator>Bollongier, Hans</dc:creator>
+          <dc:description>Dit uitbundige boeket oogt natuurlijk, maar tulpen, anemonen, rozen en anjers bloeien in de natuur niet gelijktijdig. Bollongier stelde er echter een uitgebalanceerde compositie mee samen. Het stilleven is geschilderd kort na de beurscrash in 1637, toen menigeen failliet ging door de speculatie in tulpenbollen. Misschien verwijst het feestelijke boeket dus naar de vergankelijkheid van aardse zaken.</dc:description>
+          <dc:date>1639</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-251</identifier>
+        <datestamp>2023-06-07T08:13:21Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6420</dc:identifier>
+          <dc:identifier>SK-C-251</dc:identifier>
+          <dc:title>Brieflezende vrouw</dc:title>
+          <dc:creator>Vermeer, Johannes</dc:creator>
+          <dc:subject>lezen</dc:subject>
+          <dc:subject>kaarten, atlassen</dc:subject>
+          <dc:description>Een stil privÃ©moment â een jonge vrouw staat aandachtig een brief te lezen in het ochtendlicht. Ze is nog in haar blauwe nachtjakje. Alle kleuren zijn ondergeschikt aan dit stralende lapis lazuli-blauw. Vermeer registreerde exact de lichteffecten. Zo durfde hij het als eerste aan om de huid in zachtgrijs, en de schaduwen op de muur in lichtblauw te schilderen.</dc:description>
+          <dc:date>ca.Â 1663</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-229</identifier>
+        <datestamp>2023-06-01T18:55:51Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5577</dc:identifier>
+          <dc:identifier>SK-C-229</dc:identifier>
+          <dc:title>Het vrolijke huisgezin</dc:title>
+          <dc:creator>Steen, Jan Havicksz.</dc:creator>
+          <dc:description>Uitgelaten maakt de hele familie lawaai â de vader zingt luidkeels met opgeheven glas, moeder en oma vallen in, de kinderen blazen mee en roken zelfs uit lange pijpen. Het briefje aan de schouw verklapt de moraal van het verhaal: âZo de ouden zongen, zo piepen de jongen.â Wat moet er van de kinderen worden als de ouders het slechte voorbeeld geven?</dc:description>
+          <dc:date>1668</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2815</identifier>
+        <datestamp>2021-10-01T22:45:58Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9048</dc:identifier>
+          <dc:identifier>SK-A-2815</dc:identifier>
+          <dc:title>De zeven werken van barmhartigheid</dc:title>
+          <dc:creator>Meester van Alkmaar</dc:creator>
+          <dc:subject>Beeldenstorm (1566)</dc:subject>
+          <dc:description>Een Hollandse stad vormt het decor voor een beeldverhaal dat laat zien hoe een goed christen hulpbehoevende mensen moet helpen. Christus
+staat in bijna elk tafereel tussen de toeschouwers. De scÃ¨nes geven een indruk van de stedelijke samenleving omstreeks 1500. Tijdens de  Beeldenstorm van 1566, waarbij rooms-katholieke kerken door protestanten werden vernield, raakte het werk ernstig beschadigd.</dc:description>
+          <dc:date>1504</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3262</identifier>
+        <datestamp>2023-04-13T15:22:31Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9617</dc:identifier>
+          <dc:identifier>SK-A-3262</dc:identifier>
+          <dc:title>Zelfportret</dc:title>
+          <dc:creator>Gogh, Vincent van</dc:creator>
+          <dc:subject>Gogh, Vincent van</dc:subject>
+          <dc:description>Nadat hij van zijn broer Theo had gehoord over de nieuwe kleurige Franse schilderkunst ging Vincent in 1886 in Parijs wonen. Al snel probeerde hij de Franse stijl uit op een aantal zelfportretten. Dit deed hij vooral om de kosten voor een model uit te sparen. Hier schilderde hij zichzelf als een mondain geklede Parijzenaar, met losse, ritmische penseelstreken in opvallende kleuren.</dc:description>
+          <dc:date>1887</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>karton</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4830</identifier>
+        <datestamp>2022-10-05T11:25:09Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8634</dc:identifier>
+          <dc:identifier>SK-A-4830</dc:identifier>
+          <dc:title>Stilleven met vergulde bokaal</dc:title>
+          <dc:creator>Heda, Willem Claesz.</dc:creator>
+          <dc:description>Het is ongelooflijk hoeveel schakeringen grijs Willem Heda kon schilderen. Daardoor heeft hij de voorwerpen op deze tafel â van tin, zilver, damast, glas, parelmoer â zo goed getroffen. Het verfijnde samenspel van kleuren wordt hier en daar aangevuld met accenten in geel en oker. Willem Heda was gespecialiseerd in bijna eenkleurige stillevens, zogeheten âmonochrome banketjesâ.</dc:description>
+          <dc:date>1635</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3948</identifier>
+        <datestamp>2021-10-01T23:02:53Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.10058</dc:identifier>
+          <dc:identifier>SK-A-3948</dc:identifier>
+          <dc:title>Portret van een lid van de familie Van der Mersch</dc:title>
+          <dc:creator>Troost, Cornelis</dc:creator>
+          <dc:subject>Mersch, Johannes van der</dc:subject>
+          <dc:description>Dit portret wekt de indruk dat we zo bij deze man kunnen binnenwandelen om samen met hem te genieten van kunst en muziek. Op typisch 18de-eeuwse wijze is er geen afstand: het portret wekt geen ontzag. We staan oog in oog met de opgewekte persoonlijkheid van de jongeman, lid van een rijke doopsgezinde familie uit Amsterdam. Hij is niet op bezoek voorbereid: op zijn schouder ligt poeder dat hij heeft gemorst toen hij zijn pruik poederde.</dc:description>
+          <dc:date>1736</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Noordelijke Nederlanden</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-135</identifier>
+        <datestamp>2023-04-26T16:24:27Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8609</dc:identifier>
+          <dc:identifier>SK-A-135</dc:identifier>
+          <dc:title>Een schutter die een berkenmeier vasthoudt, bekend als âDe vrolijke drinkerâ</dc:title>
+          <dc:creator>Hals, Frans</dc:creator>
+          <dc:description>Uitgelaten proost deze schutter naar ons â wie zou er niet met hem meedrinken? De manier van schilderen is al even ongedwongen als de man zelf: de snelle, spontaan aangebrachte penseelstreken ondersteunen de levendige en beweeglijke indruk. Hierdoor lijkt de man echt te bewegen. Met deze bravoure van schilderen bleef Frans Hals lang ongeÃ«venaard.</dc:description>
+          <dc:date>ca.Â 1628Â -Â ca.Â 1630</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2099</identifier>
+        <datestamp>2023-04-26T12:11:15Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8161</dc:identifier>
+          <dc:identifier>SK-A-2099</dc:identifier>
+          <dc:title>Stilleven met asperges</dc:title>
+          <dc:creator>Coorte, Adriaen</dc:creator>
+          <dc:description>Coorte vervaardigde vooral kleine stillevens met een intiem karakter. Door hun eenvoudige onderwerpen â asperges of besjes â staken zijn schilderijtjes scherp af tegen de grote pronkstillevens die in de mode waren. Daarop ging het juist om de overdaad aan kostbare spullen en etenswaren, terwijl hier de aandacht uitgaat naar de verfijnde weergave van een enkele groente.</dc:description>
+          <dc:date>1697</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>papier</dc:format>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1796</identifier>
+        <datestamp>2022-10-05T10:40:20Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8604</dc:identifier>
+          <dc:identifier>SK-A-1796</dc:identifier>
+          <dc:title>De buitenpartij</dc:title>
+          <dc:creator>Hals, Dirck</dc:creator>
+          <dc:description>Een 17de-eeuws publiek zal zeker veel genoegen hebben beleefd aan dit vrolijke kijkspel. Tegelijk zal het zich bewust zijn geweest van de boodschap die erin schuilt: er is meer op deze wereld dan eten, drinken en feestvieren. Een veelzeggend detail is de aap aan een ketting: die staat voor de zondige mens, die zich vrijwillig door zijn lage lusten laat ketenen.</dc:description>
+          <dc:date>1627</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="681464">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6RW50aXJlUHVibGljRG9tYWluU2V0fDIwMTYtMDMtMTBUMTA6MDE6MDl8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUJIYkRka1dSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rm="http://rijksmuseum.nl/collection" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2023-06-08T15:00:07Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6RW50aXJlUHVibGljRG9tYWluU2V0fDIwMTYtMDMtMTBUMTA6MDE6MDl8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUJIYkRka1dSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXwyMA==" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:europeana="http://www.europeana.eu/schemas/ese/">https://www.rijksmuseum.nl/api/oai/XmaDghie</request>
+  <ListRecords xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:europeana="http://www.europeana.eu/schemas/ese/">
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-500</identifier>
+        <datestamp>2022-01-22T17:08:33Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6831</dc:identifier>
+          <dc:identifier>SK-A-500</dc:identifier>
+          <dc:title>De heilige maagschap</dc:title>
+          <dc:creator>Geertgen tot Sint Jans</dc:creator>
+          <dc:subject>Kunstenaarspersoonlijkheden</dc:subject>
+          <dc:description>In dit fictieve, middeleeuwse kerkgebouw is Christusâ naaste familie bijeen, de heilige maagschap, naar het oud-Nederlandse woord âmaagâ voor bloedverwant. Links, in een blauw gewaad, zit Maria met Jezus en naast zich haar moeder Anna. Daarachter staan hun echtgenoten Jozef en Joachim. Rechts zit Mariaâs nicht Elisabeth met haar zoon Johannes de Doper.</dc:description>
+          <dc:date>ca.Â 1495</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>eikenhout</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Haarlem</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-447</identifier>
+        <datestamp>2023-01-16T13:06:42Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.6813</dc:identifier>
+          <dc:identifier>SK-A-447</dc:identifier>
+          <dc:title>De zielenvisserij</dc:title>
+          <dc:creator>Venne, Adriaen Pietersz. van de</dc:creator>
+          <dc:subject>religieuze geschiedenis</dc:subject>
+          <dc:subject>katholicisme</dc:subject>
+          <dc:subject>protestantisme</dc:subject>
+          <dc:subject>Twaalfjarig Bestand</dc:subject>
+          <dc:subject>Nederland</dc:subject>
+          <dc:subject>Spanje</dc:subject>
+          <dc:subject>Maurits (prins van Oranje)</dc:subject>
+          <dc:subject>Frederik Hendrik (prins van Oranje)</dc:subject>
+          <dc:subject>Oostenrijk, Albrecht aartshertog van</dc:subject>
+          <dc:subject>Isabella Clara Eugenia, infante van Spanje</dc:subject>
+          <dc:subject>Venne, Adriaen Pietersz. van de</dc:subject>
+          <dc:subject>Neyen, Jan</dc:subject>
+          <dc:subject>Medici, Maria de'</dc:subject>
+          <dc:subject>Lodewijk XIII (koning van Frankrijk)</dc:subject>
+          <dc:subject>Jacobus I (koning van Engeland)</dc:subject>
+          <dc:subject>Spinola, Ambrogio (markies de los Balbases)</dc:subject>
+          <dc:subject>Frederik V (keurvorst van de Palts, koning van Bohemen)</dc:subject>
+          <dc:subject>Elisabeth Stuart (keurvorstin van de Palts, koningin van Bohemen)</dc:subject>
+          <dc:subject>Teellinck, Willem</dc:subject>
+          <dc:description>Politiek en geloof zijn in 1614 onlosmakelijk met elkaar verbonden. Dat laat dit schilderij goed zien. Links staan protestantse dominees en leiders van de Republiek (onder wie Maurits), rechts de aartshertogen die het zuiden besturen met talloze katholieke geestelijken. Het noorden heeft volgens de schilder de toekomst: daar schijnt de zon, daar staan de bomen in het blad. Wie gered wil worden, kan dus het best naar een
+protestants bootje zwemmen.</dc:description>
+          <dc:date>1614</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-5</identifier>
+        <datestamp>2023-06-01T18:55:27Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5216</dc:identifier>
+          <dc:identifier>SK-C-5</dc:identifier>
+          <dc:title>De Nachtwacht</dc:title>
+          <dc:creator>Rijn, Rembrandt van</dc:creator>
+          <dc:subject>Amsterdam</dc:subject>
+          <dc:subject>Banninck Cocq, Frans</dc:subject>
+          <dc:subject>Ruytenburch, Willem van</dc:subject>
+          <dc:subject>Visscher Cornelisen, Jan</dc:subject>
+          <dc:subject>Kemp, Rombout</dc:subject>
+          <dc:subject>Engelen, Reijnier Janszn</dc:subject>
+          <dc:subject>Bolhamer, Barent Harmansen</dc:subject>
+          <dc:subject>Keijser, Jan Adriaensen</dc:subject>
+          <dc:subject>Willemsen, Elbert</dc:subject>
+          <dc:subject>Leijdeckers, Jan Claesen</dc:subject>
+          <dc:subject>Ockersen, Jan</dc:subject>
+          <dc:subject>Bronchorst, Jan Pietersen</dc:subject>
+          <dc:subject>Wormskerck, Harman Jacobsen</dc:subject>
+          <dc:subject>Roy, Jacob Dircksen de</dc:subject>
+          <dc:subject>Heede, Jan van der</dc:subject>
+          <dc:description>Rembrandts beroemdste en grootste schilderij werd gemaakt voor de Kloveniersdoelen. Dit was een van de drie hoofdkwartieren van de Amsterdamse schutterij, de burgerwacht van de stad. Rembrandt was de eerste die op een schuttersstuk alle figuren in actie weergaf. De kapitein, in het zwart, geeft zijn luitenant opdracht dat de compagnie moet gaan marcheren. De schutters stellen zich op. Met behulp van licht vestigde Rembrandt de aandacht op belangrijke details, zoals het handgebaar van de kapitein en het kleine meisje op de voorgrond. Zij is de mascotte van de schutters. De naam Nachtwacht is pas veel later ontstaan, toen men dacht dat het om een nachtelijk tafereel ging.</dc:description>
+          <dc:date>1642</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Amsterdam</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-216</identifier>
+        <datestamp>2023-06-01T18:55:29Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5223</dc:identifier>
+          <dc:identifier>SK-C-216</dc:identifier>
+          <dc:title>Isaak en Rebekka, bekend als âHet Joodse bruidjeâ</dc:title>
+          <dc:creator>Rijn, Rembrandt van</dc:creator>
+          <dc:description>Om te voorkomen dat hij zou worden vermoord en zijn vrouw werd ingenomen door koning Abimelech, verhulde Isaak zijn liefde voor Rebekka; zij gaven zich uit voor broer en zus. Maar hun intieme omgang toen ze zich onbespied waanden, verraadde hen. Rembrandt schildert ze in een liefdevol moment. Daarbij werkt hij uitzonderlijk vrij, brengt de verf dik op en krast erin met de achterkant van zijn penseel.</dc:description>
+          <dc:date>ca.Â 1665Â -Â ca.Â 1669</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>linnen</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1115</identifier>
+        <datestamp>2022-08-02T15:11:55Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5029</dc:identifier>
+          <dc:identifier>SK-A-1115</dc:identifier>
+          <dc:title>De Slag bij Waterloo</dc:title>
+          <dc:creator>Pieneman, Jan Willem</dc:creator>
+          <dc:subject>militaire geschiedenis</dc:subject>
+          <dc:subject>slagveld</dc:subject>
+          <dc:subject>Slag bij Waterloo</dc:subject>
+          <dc:subject>Waterloo</dc:subject>
+          <dc:subject>Wellington, Arthur Wellesley of</dc:subject>
+          <dc:subject>Willem II (koning der Nederlanden)</dc:subject>
+          <dc:subject>Hill, sir Rowland</dc:subject>
+          <dc:description>De hertog van Wellington krijgt hier het bericht dat de Pruisische troepen te hulp komen. In dit groepsportret van de hoofdrolspelers staat Wellington, bevelhebber van de Brits-Nederlandse troepen, centraal. Linksvoor ligt de Nederlandse kroonprins, de latere Willem II, gewond op een brancard. Het schilderij was aanvankelijk bedoeld voor Wellington. Maar toen Willem I het zag kocht hij het voor zijn zoon. Zo bleef het schilderij behouden voor Nederland.</dc:description>
+          <dc:date>1824</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1963-101</identifier>
+        <datestamp>2021-10-02T11:35:16Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.25449</dc:identifier>
+          <dc:identifier>BK-1963-101</dc:identifier>
+          <dc:title>Zittende Amor</dc:title>
+          <dc:creator>Falconet, Ãtienne-Maurice</dc:creator>
+          <dc:description>Dit beroemde beeld had al in de 18de eeuw verschillende bijnamen. De bekendste is lâamour menaÃ§ant, âde dreigende liefdeâ. De dreiging zit vooral in de blik van de liefdesgod, terwijl het gebaar dat hij maakt tot zwijgen maant. Het beeld is gemaakt voor Madame de Pompadour, de kunstlievende maÃ®tresse van koning Lodewijk XV.</dc:description>
+          <dc:date>1757</dc:date>
+          <dc:type>beeldhouwwerk</dc:type>
+          <dc:format>marmer</dc:format>
+          <dc:format>koper</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-18305</identifier>
+        <datestamp>2021-10-22T09:57:43Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24784</dc:identifier>
+          <dc:identifier>BK-18305</dc:identifier>
+          <dc:title>Portret van Andries de Graeff</dc:title>
+          <dc:creator>Quellinus, Artus (I)</dc:creator>
+          <dc:subject>politieke geschiedenis</dc:subject>
+          <dc:subject>lokaal bestuur</dc:subject>
+          <dc:subject>Amsterdam</dc:subject>
+          <dc:subject>Graeff, Andries de</dc:subject>
+          <dc:description>De Amsterdamse burgemeesters werden in hun machtsaanspraken geÃ¯nspireerd door de republiek van het oude Rome. Het komt in deze imposante buste van Andries de Graeff sterk tot uitdrukking. De burgemeester liet zich, gekleed in een klassieke toga, in marmer vereeuwigen, als waande hij zich een Romeinse consul, zoals ook de afkorting âCOSâ achter zijn naam op het voetstuk suggereert.</dc:description>
+          <dc:date>1661</dc:date>
+          <dc:type>buste</dc:type>
+          <dc:format>marmer</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Amsterdam</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-13150</identifier>
+        <datestamp>2021-10-26T10:14:30Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24803</dc:identifier>
+          <dc:identifier>BK-NM-13150</dc:identifier>
+          <dc:title>Portret van Michiel de Ruyter</dc:title>
+          <dc:creator>Verhulst, Rombout</dc:creator>
+          <dc:subject>maritieme geschiedenis</dc:subject>
+          <dc:subject>Ruyter, Michiel Adriaansz. de</dc:subject>
+          <dc:description>Dit portret boetseerde Rombout Verhulst in klei toen hij het grootse grafmonument voor Michiel de Ruyter in de Nieuwe Kerk in Amsterdam ontwierp. Verhulst keek goed naar geschilderde portretten van de admiraal. Hij hield deze schets tot zijn dood in eigen bezit.</dc:description>
+          <dc:date>in of naÂ 1677Â -Â in of voorÂ 1681</dc:date>
+          <dc:type>beeldhouwwerk</dc:type>
+          <dc:format>terracotta</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Den Haag</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17040-A</identifier>
+        <datestamp>2023-01-23T09:31:32Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17403</dc:identifier>
+          <dc:identifier>BK-17040-A</dc:identifier>
+          <dc:title>Tafelstuk</dc:title>
+          <dc:creator>Jamnitzer, Wenzel</dc:creator>
+          <dc:subject>aarde (een van de vier elementen)</dc:subject>
+          <dc:description>Dit tafelstuk is een lofzang op de aarde en alles wat zij voortbrengt, en tegelijkertijd een ongeÃ«venaard voorbeeld van artistiek en technisch machtsvertoon. De stam van de schaal verbeeldt Moeder Aarde. Zij is omgeven door bloemen, kruiden en kleine dieren â allemaal afgegoten naar in het wild verzamelde exemplaren. Voor de modellen van jonge ringslangen en hagedisjes hebben enkele dieren het leven moeten laten.</dc:description>
+          <dc:date>1549</dc:date>
+          <dc:type>tafelstuk</dc:type>
+          <dc:format>zilver</dc:format>
+          <dc:format>email</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Neurenberg</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4100</identifier>
+        <datestamp>2021-10-01T23:24:37Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.12124</dc:identifier>
+          <dc:identifier>SK-A-4100</dc:identifier>
+          <dc:title>De kunstgalerij van Jan Gildemeester Jansz</dc:title>
+          <dc:creator>Lelie, Adriaan de</dc:creator>
+          <dc:subject>cultuurgeschiedenis</dc:subject>
+          <dc:subject>kunsten</dc:subject>
+          <dc:subject>tentoonstelling</dc:subject>
+          <dc:subject>Amsterdam</dc:subject>
+          <dc:subject>Gildemeester Jansz, Jan</dc:subject>
+          <dc:subject>Fouquet, Pierre</dc:subject>
+          <dc:subject>Krayenhoff, Cornelis Rudolphus Theodorus</dc:subject>
+          <dc:subject>Lelie, Adriaan de</dc:subject>
+          <dc:subject>Andriessen, Jurriaan</dc:subject>
+          <dc:subject>Dull-Dohrman, Marianne</dc:subject>
+          <dc:subject>Bosch, Jeronimo de</dc:subject>
+          <dc:subject>Wit, Jacob de</dc:subject>
+          <dc:description>De koopman Gildemeester richtte in 1792 in zijn huis aan de Amsterdamse Herengracht twee grote vertrekken in als schilderijengalerij. De wanden zijn volledig behangen met schilderijen in vergulde lijsten. Gildemeester staat in het midden van de voorkamer, pratend met een van zijn gasten. De bezoekers bestuderen de beroemde werken, waaronder een Rembrandt â te zien boven Gildemeesters hoofd.</dc:description>
+          <dc:date>1794Â -Â 1795</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-240</identifier>
+        <datestamp>2023-06-01T18:54:36Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.1951</dc:identifier>
+          <dc:identifier>AK-MAK-240</dc:identifier>
+          <dc:title>De bodhisattva Manjushri</dc:title>
+          <dc:creator>anoniem</dc:creator>
+          <dc:description>In China werd Manjushri vereerd als een van de eerste pleitbezorgers van het boeddhisme. Op Java wordt hij uitgebeeld als jonge man met over zijn borst gekruiste banden met juwelen. Deze Manjushri maakte met zijn handen waarschijnlijk het gebaar van het draaien aan het rad van de leer (dharmacakra-mudra): dit symboliseert het begin van de cyclus van het boeddhistische leren en verlichting.</dc:description>
+          <dc:date>ca.Â 800Â -Â ca.Â 900</dc:date>
+          <dc:type>beeldhouwwerk</dc:type>
+          <dc:type>beeld</dc:type>
+          <dc:type>Manjushri</dc:type>
+          <dc:format>andesiet</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Candi Plaosan</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:AK-MAK-84</identifier>
+        <datestamp>2023-06-01T18:54:14Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.935</dc:identifier>
+          <dc:identifier>AK-MAK-84</dc:identifier>
+          <dc:title>Guanyin</dc:title>
+          <dc:creator>anoniem</dc:creator>
+          <dc:subject>Guanyin</dc:subject>
+          <dc:description>De boeddhistische godheid Guanyin, redder van mensen in nood, is afgebeeld tijdens het mediteren, zittend op een rots. Volgens de legende werd hij ooit in deze houding aangetroffen, mediterend op de weerspiegeling van de maan in het water, in het boeddhisme een symbool van illusie en vergankelijkheid. Zijn houding en gezicht belichamen innerlijke rust en concentratie.</dc:description>
+          <dc:date>ca.Â 1100Â -Â ca.Â 1200</dc:date>
+          <dc:type>beeldhouwwerk</dc:type>
+          <dc:type>beeld</dc:type>
+          <dc:type>Avalokitesvara</dc:type>
+          <dc:format>wilgenhout</dc:format>
+          <dc:format>paulowniahout</dc:format>
+          <dc:format>verguldsel</dc:format>
+          <dc:format>verfstof</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Shanxi</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1368</identifier>
+        <datestamp>2023-06-01T18:55:22Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5039</dc:identifier>
+          <dc:identifier>SK-C-1368</dc:identifier>
+          <dc:title>Portretten van Giuliano en Francesco Giamberti da Sangallo</dc:title>
+          <dc:creator>Piero di Cosimo</dc:creator>
+          <dc:subject>Sangallo, Giuliano da</dc:subject>
+          <dc:description>Op dit uitzonderlijke tweeluik is de vooraanstaande Florentijnse architect Giuliano da Sangallo geportretteerd met zijn pas overleden vader Francesco, die architect en musicus was. Ze behoren tot de vroegste voorbeelden van portretten waarin het beroep van de afgebeelden centraal staat. Pen en passer duiden op de bouwkunst, het blad met noten op de muziek; beide kunsten zijn gebaseerd op harmonie en verhoudingen.</dc:description>
+          <dc:date>1482Â -Â 1485</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Florence</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-597</identifier>
+        <datestamp>2023-06-01T18:55:33Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5237</dc:identifier>
+          <dc:identifier>SK-C-597</dc:identifier>
+          <dc:title>Portret van een vrouw, mogelijk Maria Trip</dc:title>
+          <dc:creator>Rijn, Rembrandt van</dc:creator>
+          <dc:subject>Trip, Maria</dc:subject>
+          <dc:description>Mariaâs vader was schatrijk geworden door handel in ijzer en wapens. In 1639 is zij 20 jaar en nog ongetrouwd. Op dit portret komt ze er onverbloemd voor uit dat ze iets te besteden heeft. Haar halsdoek is van de fijnst mogelijke, bijna transparante kant, en ze draagt een weelde aan parels. De vouwwaaier in haar linkerhand was in 1639 nog een zeldzaam en kostbaar kleinood.</dc:description>
+          <dc:date>1639</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-217</identifier>
+        <datestamp>2022-10-27T14:41:49Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5351</dc:identifier>
+          <dc:identifier>SK-C-217</dc:identifier>
+          <dc:title>Interieur van de Sint-Odulphuskerk in Assendelft</dc:title>
+          <dc:creator>Saenredam, Pieter Jansz.</dc:creator>
+          <dc:subject>Sint-Odulphuskerk</dc:subject>
+          <dc:description>Wat een licht en helderheid in deze kerk, waar toevallig net vanaf de kansel gepreekt wordt. Ruimtelijkheid creÃ«ert Saenredam door het centraal perspectief consequent toe te passen, waardoor alle lijnen hetzelfde verdwijnpunt hebben. Deze ruimte had voor de schilder een bijzondere betekenis: hij was in Assendelft geboren en de grafsteen van zijn vader, Jan Saenredam, is met inscriptie en al rechts vooraan te zien.</dc:description>
+          <dc:date>1649-10-02</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-211</identifier>
+        <datestamp>2023-06-01T18:55:40Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5333</dc:identifier>
+          <dc:identifier>SK-C-211</dc:identifier>
+          <dc:title>De molen bij Wijk bij Duurstede</dc:title>
+          <dc:creator>Ruisdael, Jacob Isaacksz van</dc:creator>
+          <dc:subject>Wijk bij Duurstede</dc:subject>
+          <dc:subject>Kasteel Duurstede</dc:subject>
+          <dc:subject>Lek</dc:subject>
+          <dc:description>Majesteitelijk rijst de molen omhoog, hij trotseert de donkere regenwolken en maakt het slot en de kerk van Wijk bij Duurstede nietig. Op de voorgrond stroomt de Lek. Terecht is dit een wereldberoemd schilderij. Ruisdael verenigde er op een indrukwekkende wijze alle Hollandse elementen in â het laagland, het water en de lucht â en hij laat ze samenkomen in de al even Hollandse molen.</dc:description>
+          <dc:date>ca.Â 1668Â -Â ca.Â 1670</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-1367</identifier>
+        <datestamp>2023-06-01T18:55:22Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5040</dc:identifier>
+          <dc:identifier>SK-C-1367</dc:identifier>
+          <dc:title>Portretten van Giuliano en Francesco Giamberti da Sangallo</dc:title>
+          <dc:creator>Piero di Cosimo</dc:creator>
+          <dc:subject>Sangallo, Francesco Giamberti da</dc:subject>
+          <dc:description>Op dit uitzonderlijke tweeluik is de vooraanstaande Florentijnse architect Giuliano da Sangallo geportretteerd met zijn pas overleden vader Francesco, die architect en musicus was. Ze behoren tot de vroegste voorbeelden van portretten waarin het beroep van de afgebeelden centraal staat. Pen en passer duiden op de bouwkunst, het blad met noten op de muziek; beide kunsten zijn gebaseerd op harmonie en verhoudingen.</dc:description>
+          <dc:date>1482Â -Â 1485</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Florence</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-372</identifier>
+        <datestamp>2023-05-11T14:40:16Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5444</dc:identifier>
+          <dc:identifier>SK-A-372</dc:identifier>
+          <dc:title>Maria Magdalena</dc:title>
+          <dc:creator>Scorel, Jan van</dc:creator>
+          <dc:subject>kunst in de Nederlanden 1525-1565</dc:subject>
+          <dc:description>De vrouw is Maria Magdalena. Zij is herkenbaar aan de zalfpot, waarmee ze de voeten van Jezus zou hebben verzorgd. Van Scorel schilderde haar als verleidelijke, luxe geklede courtisane, een verwijzing naar haar vermeende verleden als prostituee. In haar kleding straalt de invloed van de Italiaanse schilderkunst door, die Van Scorel op zijn reis naar Rome had leren kennen.</dc:description>
+          <dc:date>ca.Â 1530</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Haarlem</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4050</identifier>
+        <datestamp>2023-06-01T18:55:38Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5280</dc:identifier>
+          <dc:identifier>SK-A-4050</dc:identifier>
+          <dc:title>Zelfportret als de apostel Paulus</dc:title>
+          <dc:creator>Rijn, Rembrandt van</dc:creator>
+          <dc:subject>Rijn, Rembrandt van</dc:subject>
+          <dc:description>Hier is Rembrandt 55 jaar, en nog steeds beschouwt hij zichzelf met open blik. In dit schilderij neemt hij de gedaante aan van een Bijbels personage, de apostel Paulus. Het zwaard dat uit zijn mantel steekt en het manuscript in zijn handen zijn de gebruikelijke attributen van deze apostel. Door zijn eigen gezicht te gebruiken, moedigde hij de toeschouwer aan een persoonlijke band aan te gaan met de heilige.</dc:description>
+          <dc:date>1661</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1976-75</identifier>
+        <datestamp>2023-02-15T10:26:02Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.17215</dc:identifier>
+          <dc:identifier>BK-1976-75</dc:identifier>
+          <dc:title>Kan met deksel</dc:title>
+          <dc:creator>Vianen, Adam van (I)</dc:creator>
+          <dc:subject>zilversmedengilde</dc:subject>
+          <dc:subject>Amsterdam</dc:subject>
+          <dc:subject>Vianen, Paulus Willemsz. van</dc:subject>
+          <dc:description>Het lichaam van deze bizarre kan bestaat uit weke, in elkaar vloeiende vormen in kwabstijl, alsof iemand met een pollepel in een dikke, stroperige substantie heeft staan roeren. Uit die brij duiken allerlei angstaanjagende, half menselijke, half dierlijke monstertjes op. Adam van
+Vianen maakte deze kan als een monument ter nagedachtenis van zijn in 1613 gestorven broer Paulus van Vianen.</dc:description>
+          <dc:date>1614</dc:date>
+          <dc:type>kan</dc:type>
+          <dc:format>zilver</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Utrecht</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="681464">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6RW50aXJlUHVibGljRG9tYWluU2V0fDIwMTYtMDMtMTBUMTA6MDE6MDl8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUJIYkRka1dSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw0MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

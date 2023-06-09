@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<OAI-PMH xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd" xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rm="http://rijksmuseum.nl/collection" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <responseDate>2023-06-08T15:00:07Z</responseDate>
+  <request verb="ListRecords" resumptionToken="MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6RW50aXJlUHVibGljRG9tYWluU2V0fDIwMTYtMDMtMTBUMTA6MDE6MDl8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUJIYkRka1dSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw2MA==" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:europeana="http://www.europeana.eu/schemas/ese/">https://www.rijksmuseum.nl/api/oai/XmaDghie</request>
+  <ListRecords xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:europeana="http://www.europeana.eu/schemas/ese/">
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-AM-33-H</identifier>
+        <datestamp>2023-05-08T14:08:06Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24249</dc:identifier>
+          <dc:identifier>BK-AM-33-H</dc:identifier>
+          <dc:title>Tien pleurants van het praalgraf van Isabella van Bourbon</dc:title>
+          <dc:creator>Borman werkplaats</dc:creator>
+          <dc:creator>Thienen, Renier van (I)</dc:creator>
+          <dc:subject>Bourbon, Isabella de</dc:subject>
+          <dc:description>In 1465 overleed Isabella van Bourbon, de vrouw van Karel de Stoute, hertog van BourgondiÃ«. Hun dochter Maria liet voor haar een praalgraf maken in de Michielsabdij in Antwerpen. Om de tombe stonden 24 beeldjes van rouwende familieleden en voorouders, zogenoemde pleurants. Ze symboliseerden het belang van de Bourgondische dynastie. Deze tien bleven als enige bewaard.</dc:description>
+          <dc:date>ca.Â 1475Â -Â ca.Â 1476</dc:date>
+          <dc:type>graffiguur</dc:type>
+          <dc:format>brons</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Brussel (stad)</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-AM-33-B</identifier>
+        <datestamp>2023-05-08T14:05:29Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24243</dc:identifier>
+          <dc:identifier>BK-AM-33-B</dc:identifier>
+          <dc:title>Tien pleurants van het praalgraf van Isabella van Bourbon</dc:title>
+          <dc:creator>Borman werkplaats</dc:creator>
+          <dc:creator>Thienen, Renier van (I)</dc:creator>
+          <dc:subject>Bourbon, Isabella de</dc:subject>
+          <dc:subject>Albrecht van Beieren (graaf van Holland, Henegouwen en Zeeland)</dc:subject>
+          <dc:description>In 1465 overleed Isabella van Bourbon, de vrouw van Karel de Stoute, hertog van BourgondiÃ«. Hun dochter Maria liet voor haar een praalgraf maken in de Michielsabdij in Antwerpen. Om de tombe stonden 24 beeldjes van rouwende familieleden en voorouders, zogenoemde pleurants. Ze symboliseerden het belang van de Bourgondische dynastie. Deze tien bleven als enige bewaard.</dc:description>
+          <dc:date>ca.Â 1475Â -Â ca.Â 1476</dc:date>
+          <dc:type>graffiguur</dc:type>
+          <dc:format>brons</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Brussel (stad)</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-88</identifier>
+        <datestamp>2023-05-08T16:06:21Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24311</dc:identifier>
+          <dc:identifier>BK-NM-88</dc:identifier>
+          <dc:title>De ontmoeting van Joachim en Anna</dc:title>
+          <dc:creator>Meester van Joachim en Anna</dc:creator>
+          <dc:contributor>Meester van Joachim en Anna</dc:contributor>
+          <dc:subject>Kunstenaarspersoonlijkheden</dc:subject>
+          <dc:description>Joachim en Anna waren lang kinderloos. Totdat Annaâs gebed werd verhoord en zij op wonderbaarlijke wijze in verwachting bleek van Maria. In hun blijdschap om dit nieuws omhelzen zij elkaar teder. Ooit maakte dit intieme en haast tijdloze beeld deel uit van een groot altaar, gewijd aan het leven van Maria.</dc:description>
+          <dc:date>ca.Â 1470</dc:date>
+          <dc:type>beeldhouwwerk</dc:type>
+          <dc:format>eikenhout</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Noordwest Brabant</dc:coverage>
+          <dc:coverage>Breda</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-AM-33-I</identifier>
+        <datestamp>2023-05-08T13:23:11Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.24250</dc:identifier>
+          <dc:identifier>BK-AM-33-I</dc:identifier>
+          <dc:title>Tien pleurants van het praalgraf van Isabella van Bourbon</dc:title>
+          <dc:creator>Borman werkplaats</dc:creator>
+          <dc:creator>Thienen, Renier van (I)</dc:creator>
+          <dc:subject>Bourbon, Isabella de</dc:subject>
+          <dc:description>In 1465 overleed Isabella van Bourbon, de vrouw van Karel de Stoute, hertog van BourgondiÃ«. Hun dochter Maria liet voor haar een praalgraf maken in de Michielsabdij in Antwerpen. Om de tombe stonden 24 beeldjes van rouwende familieleden en voorouders, zogenoemde pleurants. Ze symboliseerden het belang van de Bourgondische dynastie. Deze tien bleven als enige bewaard.</dc:description>
+          <dc:date>ca.Â 1475Â -Â ca.Â 1476</dc:date>
+          <dc:type>graffiguur</dc:type>
+          <dc:format>brons</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Brussel (stad)</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3148</identifier>
+        <datestamp>2021-10-01T22:54:08Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9542</dc:identifier>
+          <dc:identifier>SK-A-3148</dc:identifier>
+          <dc:title>Portret van Willem I, prins van Oranje</dc:title>
+          <dc:creator>Key, Adriaen Thomasz.</dc:creator>
+          <dc:subject>Koninklijk Huis</dc:subject>
+          <dc:subject>politieke geschiedenis</dc:subject>
+          <dc:subject>Willem I (prins van Oranje)</dc:subject>
+          <dc:description>Onder de edelen die in de Nederlanden in opstand kwamen tegen het gezag van Filips II groeide Willem van Oranje uit tot de grote leider van de opstand. Hij kwam voor zijn eigen belangen op, streefde naar grotere zelfstandigheid en bepleitte vrijheid van godsdienst. In 1580 zette Filips II een prijs op zijn hoofd; vier jaar later werd hij vermoord.</dc:description>
+          <dc:date>ca.Â 1579</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1451</identifier>
+        <datestamp>2022-09-20T07:38:35Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8097</dc:identifier>
+          <dc:identifier>SK-A-1451</dc:identifier>
+          <dc:title>De welvoorziene keuken</dc:title>
+          <dc:creator>Bueckelaer, Joachim</dc:creator>
+          <dc:subject>kunst in de Nederlanden 1525-1565</dc:subject>
+          <dc:description>Niet de overdadige uitstalling van groente, fruit, vlees, gevogelte en vaatwerk die deze keukenmeiden ons hier voorhouden is het hoofdthema van het schilderij. Dat is het bezoek van Jezus bij Maria en Martha, onopvallend afgebeeld in de achtergrond. In de tegenstelling tussen voor- en achtergrond schuilt de les van het schilderij: bezwijk niet voor aardse verleidingen.</dc:description>
+          <dc:date>1566</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Antwerpen (stad)</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-1505</identifier>
+        <datestamp>2022-05-03T09:20:32Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8456</dc:identifier>
+          <dc:identifier>SK-A-1505</dc:identifier>
+          <dc:title>Een molen aan een poldervaart, bekend als âIn de maand juliâ</dc:title>
+          <dc:creator>GabriÃ«l, Paul Joseph Constantin</dc:creator>
+          <dc:description>âOns land is gekleurd-sappig-vet. (...) ik herhaal het, ons land is niet grijs, zelfs niet bij grijs weer, de duinen zijn ook niet grijsâ, schreef Constant GabriÃ«l in een brief. In tegenstelling tot veel schilders van de Haagse School schilderde hij graag een mooie zomerdag. Op dit schilderij staan er zelfs twee: het gras, de lucht en de molen worden weerspiegeld in het water.</dc:description>
+          <dc:date>ca.Â 1889</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>olieverf</dc:format>
+          <dc:format>doek</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3841</identifier>
+        <datestamp>2021-10-01T22:41:21Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8891</dc:identifier>
+          <dc:identifier>SK-A-3841</dc:identifier>
+          <dc:title>De dans om het gouden kalf</dc:title>
+          <dc:creator>Leyden, Lucas van</dc:creator>
+          <dc:subject>kunst in de Nederlanden 1525-1565</dc:subject>
+          <dc:description>In een doorlopend landschap plaatste Lucas van Leyden het Bijbelverhaal over de IsraÃ«lieten die ontrouw waren aan God omdat zij een gouden beeld van een kalf aanbaden. Het drieluik waarschuwt tegen ongeloof en zedeloos gedrag. Wellicht hangt de keuze voor dit zeldzame thema samen met het opkomend protestantisme, dat een sterke afkeer had van de rooms-katholieke verering van religieuze beelden.</dc:description>
+          <dc:date>ca.Â 1530</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:type>triptiek</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Leiden</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-3059</identifier>
+        <datestamp>2023-05-24T12:06:52Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.9084</dc:identifier>
+          <dc:identifier>SK-A-3059</dc:identifier>
+          <dc:title>Het zieke kind</dc:title>
+          <dc:creator>Metsu, GabriÃ«l</dc:creator>
+          <dc:description>In 1663 woedt de pest in Amsterdam. Een op de tien Amsterdammers overlijdt. Rond deze tijd schilderde Metsu dit ontroerende, zieke kind, in krachtige, heldere kleuren tegen een grauwe achtergrond. Het tafereel doet denken aan een piÃ«ta: Maria met het dode lichaam van Jezus op haar schoot. Ook het schilderij tegen de achterwand, met Christus aan het kruis, herinnert aan dit lijden.</dc:description>
+          <dc:date>ca.Â 1664Â -Â ca.Â 1666</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-2963</identifier>
+        <datestamp>2022-03-04T10:52:31Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8555</dc:identifier>
+          <dc:identifier>SK-A-2963</dc:identifier>
+          <dc:title>Portret van Don RamÃ³n SatuÃ©</dc:title>
+          <dc:creator>Goya, Francisco de</dc:creator>
+          <dc:subject>StatuÃ©, Don RamÃ³n</dc:subject>
+          <dc:description>Goya dankt zijn faam aan zijn portretten van het Spaanse hof en zijn eigenaardige prentenkunst. Hij was al 76 jaar oud toen hij dit krachtige portret schilderde. SatuÃ© was rechter bij het hoogste gerechtshof van CastiliÃ«. Door de ontspannen houding en open kraag maakt het portret een informele indruk. Daarom is het te rangschikken onder Goyas portretten van zijn meest intieme vrienden.</dc:description>
+          <dc:date>1823</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-2</identifier>
+        <datestamp>2022-09-30T10:20:14Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.8662</dc:identifier>
+          <dc:identifier>SK-C-2</dc:identifier>
+          <dc:title>Schuttersmaaltijd ter viering van de Vrede van Munster</dc:title>
+          <dc:creator>Helst, Bartholomeus van der</dc:creator>
+          <dc:subject>viering</dc:subject>
+          <dc:subject>vrede</dc:subject>
+          <dc:subject>Vrede van MÃ¼nster</dc:subject>
+          <dc:subject>Viering van de Vrede van Munster te Amsterdam</dc:subject>
+          <dc:subject>Amsterdam</dc:subject>
+          <dc:subject>Witsen, Cornelis</dc:subject>
+          <dc:description>18 juni 1648: het is feest bij de Amsterdamse voetboogschutters. De aanleiding is de Vrede van Munster, het einde van de oorlog met Spanje. De aanvoerders van de schutterij schudden elkaar de hand als vredesteken, de drinkhoorn doet de ronde. De gewapende macht van Amsterdam is blij dat de wapens voortaan rusten, zo blijkt uit het gedicht op de trommel.</dc:description>
+          <dc:date>1648</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-C-6</identifier>
+        <datestamp>2023-06-01T18:55:27Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5217</dc:identifier>
+          <dc:identifier>SK-C-6</dc:identifier>
+          <dc:title>De waardijns van het Amsterdamse lakenbereidersgilde, bekend als âDe Staalmeestersâ</dc:title>
+          <dc:creator>Rijn, Rembrandt van</dc:creator>
+          <dc:subject>lakenbereidersgilde</dc:subject>
+          <dc:subject>Amsterdam</dc:subject>
+          <dc:subject>Loon, Jacob van</dc:subject>
+          <dc:subject>Jansz, Volckert</dc:subject>
+          <dc:subject>Doeyenburg, Willem van</dc:subject>
+          <dc:subject>Bel, Frans Hendricksz</dc:subject>
+          <dc:subject>Mye, Aernout van der</dc:subject>
+          <dc:subject>Neve, Jochem de</dc:subject>
+          <dc:description>Nadat Rembrandt in de jaren 50 in financiÃ«le problemen was geraakt, verhuisde hij naar een huurhuis aan de Rozengracht. De Amsterdamse elite klopte niet meer zo veelvuldig bij hem aan als voorheen. Toch bleef hij populair: dit belangrijke gilde vroeg hem voor hun portret. Rembrandt maakte er een levendige scÃ¨ne van, door te doen alsof ze â gestoord door onze binnenkomst â even opkijken van hun werk.</dc:description>
+          <dc:date>1662</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>doek</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:SK-A-4691</identifier>
+        <datestamp>2023-06-01T18:55:33Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.5236</dc:identifier>
+          <dc:identifier>SK-A-4691</dc:identifier>
+          <dc:title>Zelfportret</dc:title>
+          <dc:creator>Rijn, Rembrandt van</dc:creator>
+          <dc:subject>Rijn, Rembrandt van</dc:subject>
+          <dc:description>Onervaren als hij is, schuwt de jonge Rembrandt het experiment niet. Hier laat hij het licht langs zijn rechterwang schampen, de rest van zijn gezicht is in schaduwen gehuld. Het duurt even voordat je beseft dat hij je scherp aankijkt. Om de krullen in zijn wilde haardos te accentueren,
+tekende hij met de achterkant van zijn penseel in de nog natte verf.</dc:description>
+          <dc:date>ca.Â 1628</dc:date>
+          <dc:type>schilderij</dc:type>
+          <dc:format>paneel</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-AM-33</identifier>
+        <datestamp>2021-10-03T14:29:02Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.437391</dc:identifier>
+          <dc:identifier>BK-AM-33</dc:identifier>
+          <dc:title>Pleurants van het praalgraf van Isabella van Bourbon</dc:title>
+          <dc:creator>Borman werkplaats</dc:creator>
+          <dc:creator>Thienen, Renier van (I)</dc:creator>
+          <dc:subject>wereldlijk gezag</dc:subject>
+          <dc:subject>Bourbon, Isabella de</dc:subject>
+          <dc:description>In 1465 overleed Isabella van Bourbon, de vrouw van Karel de Stoute, hertog van BourgondiÃ«. Hun dochter Maria liet voor haar een praalgraf maken in de Michielsabdij in Antwerpen. Om de tombe stonden 24 beeldjes van rouwende familieleden en voorouders, zogenoemde pleurants. Ze symboliseerden het belang van de Bourgondische dynastie.</dc:description>
+          <dc:date>ca.Â 1475Â -Â ca.Â 1476</dc:date>
+          <dc:type>graffiguur</dc:type>
+          <dc:format>brons</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Brussel (stad)</dc:coverage>
+          <dc:coverage>Brussel (stad)</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1983-15</identifier>
+        <datestamp>2023-06-01T18:57:01Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.325457</dc:identifier>
+          <dc:identifier>BK-1983-15</dc:identifier>
+          <dc:title>Roemer met een gedicht op Constantijn Huygens</dc:title>
+          <dc:creator>anoniem</dc:creator>
+          <dc:contributor>Visscher, Anna Roemers</dc:contributor>
+          <dc:subject>Huygens, Constantijn (I)</dc:subject>
+          <dc:subject>Visscher, Anna Roemers</dc:subject>
+          <dc:description>Anna Roemers Visscher graveerde een van haar eigen gedichten in een wijnglas, een geschenk voor Constantijn Huygens. De woorden bevatten een klacht en een aansporing: haar pen is opgedroogd, haar hersenen verroest. Ze vraagt Huygens voor haar wat water van de Helicon â de woonplaats van de Muzen â te halen, opdat haar inkt weer gaat vloeien en zij weer kan dichten.</dc:description>
+          <dc:date>1619</dc:date>
+          <dc:type>roemer</dc:type>
+          <dc:format>glas</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-2000-17</identifier>
+        <datestamp>2022-01-25T20:40:13Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.356254</dc:identifier>
+          <dc:identifier>BK-2000-17</dc:identifier>
+          <dc:title>Zelfportret</dc:title>
+          <dc:creator>Schardt, Johan Gregor van der</dc:creator>
+          <dc:subject>Schardt, Johan Gregor van der</dc:subject>
+          <dc:description>Om dit kleine borstbeeld â het is de helft van de ware grootte â te maken, moest de beeldhouwer allerlei kunstgrepen met spiegels verrichten. Van der Schardt heeft zichzelf niet recht van voren weergegeven, maar wendt zijn blik af, alsof hij ons niet wil zien. Het naakte bovenlichaam verwijst naar de beeldhouwkunst van de antieke oudheid.</dc:description>
+          <dc:date>ca.Â 1573Â -Â ca.Â 1580</dc:date>
+          <dc:type>buste</dc:type>
+          <dc:format>terracotta</dc:format>
+          <dc:format>olieverf</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Neurenberg</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-1975-81</identifier>
+        <datestamp>2022-11-24T11:48:52Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.293793</dc:identifier>
+          <dc:identifier>BK-1975-81</dc:identifier>
+          <dc:title>Kast</dc:title>
+          <dc:creator>Doomer, Herman</dc:creator>
+          <dc:description>In de vroege 17de eeuw ontstond een nieuw specialisme in de Amsterdamse meubelmakerij: de ebbenhoutwerkerskunst. Ebbenhoutwerkers maakten meubels die belijmd werden met kostbare, exotische houtsoorten zoals ebbenhout, waardoor het kernhout niet meer te zien is. Herman Doomer was de beroemdste Amsterdamse ebbenhoutwerker, en deze kast is zijn meesterwerk. Rembrandt, die Doomers werk ongetwijfeld bewonderde, schilderde in 1640 portretten van Doomer en zijn vrouw.</dc:description>
+          <dc:date>ca.Â 1635Â -Â ca.Â 1645</dc:date>
+          <dc:type>meubilair</dc:type>
+          <dc:type>kast</dc:type>
+          <dc:format>hout</dc:format>
+          <dc:format>eikenhout</dc:format>
+          <dc:format>ebbenhout</dc:format>
+          <dc:format>koningshout</dc:format>
+          <dc:format>palissanderhout</dc:format>
+          <dc:format>bruinharthout</dc:format>
+          <dc:format>parelmoer</dc:format>
+          <dc:format>ivoor</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-17496</identifier>
+        <datestamp>2023-06-02T14:53:33Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.315407</dc:identifier>
+          <dc:identifier>BK-17496</dc:identifier>
+          <dc:title>Blauwe ara</dc:title>
+          <dc:creator>Meissener Porzellan Manufaktur</dc:creator>
+          <dc:contributor>KÃ¤ndler, Johann Joachim</dc:contributor>
+          <dc:contributor>Kirchner, Johann Gottlieb</dc:contributor>
+          <dc:description>De porseleinfabriek in Meissen bij Dresden werd in 1709 gesticht. Hier werd voor het eerst in Europa echt porselein gemaakt, zoals uit China en Japan bekend was. De fabriek was eigendom van August de Sterke, keurvorst van Saksen en koning van Polen. De vogels en dieren in deze vitrine zijn allemaal voor hem gemaakt. Ze waren bestemd voor zijn zogeheten Japanse Paleis, waar hij alle wanden wilde vullen met porselein.</dc:description>
+          <dc:date>1731</dc:date>
+          <dc:type>figuur</dc:type>
+          <dc:format>porselein</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Meissen</dc:coverage>
+          <dc:coverage>Meissen</dc:coverage>
+          <dc:coverage>Meissen</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-NM-1010</identifier>
+        <datestamp>2023-01-23T15:32:45Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.250587</dc:identifier>
+          <dc:identifier>BK-NM-1010</dc:identifier>
+          <dc:title>Poppenhuis van Petronella Oortman</dc:title>
+          <dc:creator>anoniem</dc:creator>
+          <dc:subject>Oortman, Petronella</dc:subject>
+          <dc:description>Dit poppenhuis is bijzonder levensecht. Alle voorwerpen zijn van de juiste materialen gemaakt en de verhoudingen kloppen precies. De fraaie kast, versierd met inlegwerk van tin op schildpad, is vervaardigd door een meubelmaker uit Frankrijk, die enkele jaren in Amsterdam heeft gewerkt. Petronella Oortman was getrouwd met de Amsterdamse koopman Johannes Brandt.</dc:description>
+          <dc:date>ca.Â 1686Â -Â ca.Â 1710</dc:date>
+          <dc:type>meubilair</dc:type>
+          <dc:type>poppenhuis</dc:type>
+          <dc:format>hout</dc:format>
+          <dc:format>eikenhout</dc:format>
+          <dc:format>cederhout</dc:format>
+          <dc:format>palissanderhout</dc:format>
+          <dc:format>notenhout</dc:format>
+          <dc:format>schildpad</dc:format>
+          <dc:format>tin</dc:format>
+          <dc:format>glas</dc:format>
+          <dc:format>marmer</dc:format>
+          <dc:format>papier</dc:format>
+          <dc:format>koper</dc:format>
+          <dc:format>steen (materiaal)</dc:format>
+          <dc:format>zijde</dc:format>
+          <dc:format>fluweel</dc:format>
+          <dc:format>garen</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Amsterdam</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:rijksmuseum.nl:BK-16676</identifier>
+        <datestamp>2023-05-25T13:47:39Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc>
+          <dc:identifier>http://hdl.handle.net/10934/RM0001.COLLECT.248783</dc:identifier>
+          <dc:identifier>BK-16676</dc:identifier>
+          <dc:title>Bureau</dc:title>
+          <dc:creator>Roentgen, Abraham</dc:creator>
+          <dc:subject>Walderdorff, Johann Philipp von</dc:subject>
+          <dc:description>Het bureau heeft een groot aantal verborgen vakken en laden en herbergt zelfs een uitklapbare knielbank. Het is gemaakt voor Johann Philipp von Walderdorff, aartsbisschop en keurvorst van Trier, en is bovenin versierd met diens portret en wapen. Het bureau is het rijkste pronkstuk dat ooit is gemaakt door Abraham Roentgen, de beroemdste Duitse meubelmaker van zijn tijd.</dc:description>
+          <dc:date>ca.Â 1758Â -Â ca.Â 1760</dc:date>
+          <dc:type>schrijfmeubel</dc:type>
+          <dc:type>bureautafel</dc:type>
+          <dc:format>hout</dc:format>
+          <dc:format>eikenhout</dc:format>
+          <dc:format>notenhout</dc:format>
+          <dc:format>esdoornhout</dc:format>
+          <dc:format>rozenhout</dc:format>
+          <dc:format>ebbenhout</dc:format>
+          <dc:format>palissanderhout</dc:format>
+          <dc:format>kersenhout</dc:format>
+          <dc:format>satijnhout</dc:format>
+          <dc:format>schildpad</dc:format>
+          <dc:format>zilver</dc:format>
+          <dc:format>parelmoer</dc:format>
+          <dc:format>koper</dc:format>
+          <dc:format>been</dc:format>
+          <dc:format>brons</dc:format>
+          <dc:format>ivoor</dc:format>
+          <dc:format>staal</dc:format>
+          <dc:format>tin</dc:format>
+          <dc:language>nl</dc:language>
+          <dc:publisher>Rijksmuseum</dc:publisher>
+          <dc:rights>http://creativecommons.org/publicdomain/mark/1.0/</dc:rights>
+          <dc:coverage>Neuwied</dc:coverage>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken completeListSize="681464">MXxkY3wyMDE4LTA3LTEyVDEzOjA5OjE2fHN1YmplY3Q6RW50aXJlUHVibGljRG9tYWluU2V0fDIwMTYtMDMtMTBUMTA6MDE6MDl8RFhGMVpYSjVRVzVrUm1WMFkyZ0JBQUFBQUJIYkRka1dSamRzWm14R1pUSlNVRk4xTm5Cb09UUXpWbko1UVE9PXw4MA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
