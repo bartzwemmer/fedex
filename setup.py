@@ -17,7 +17,7 @@ setuptools.setup(
     },
     long_description=long_description,
     long_description_content_type="text/markdown",
-    install_requires=["PyYAML", "other_packages"],
+    install_requires=["pyspark", "pytest"],
     url="https://github.com/bartzwemmer/fedex",
     packages=setuptools.find_packages(),
     classifiers=[
