@@ -35,6 +35,7 @@ def clean_xml(data: str) -> str:
 def write_xml(data: str) -> None:
   '''
   Write the string as an XML file
+  https://docs.databricks.com/external-data/xml.html
   '''
   filename = 'testdata/test.xml'
   print('saving: ' + filename)
