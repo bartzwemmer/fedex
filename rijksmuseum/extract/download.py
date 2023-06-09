@@ -2,8 +2,6 @@ import io
 import logging
 import os
 from typing import Optional
-import xml.etree.ElementTree as ET
-import lxml.etree as ET
 
 import requests
 
@@ -20,26 +18,13 @@ BASE_URL = "https://www.rijksmuseum.nl/api/oai/"
 XML_FOLDER = "/xmls"
 
 
-def _clean_xml(data: str) -> str:
-    """
-    Remove whitelines and garbage from XML string
-    """
-    # Remove whitelines
-    data = "".join([s for s in data.splitlines(True) if s.strip("\r\n")])
-    # Remove XML prefixes, since they cause trouble creating column names
-    no_dc_prefix = data.replace("dc:", "")
-    cleaned = no_dc_prefix.replace("oai_dc:", "")
-
-    return data
-
-
 def _write_xml(data: str, id: int) -> None:
     """
     Write the string as an XML file
     https://docs.databricks.com/external-data/xml.html
     """
-    filename = f"testdata/records_{id}.xml"
-    print("saving: " + filename)
+    filename = f"xmls/records_{id}.xml"
+    LOG.info("saving: " + filename)
     with io.open(filename, "w", encoding="utf-8") as f:
         f.write(data)
 
@@ -56,18 +41,18 @@ def get_resumption_token(data: str) -> Optional[str]:
     """
     Extract the resumption token from the response
     """
+    # TODO proper XML parsing would be better off course
     d = data.split('<resumptionToken completeListSize="681464">')
-    resumption_token = d[1].split('</resumptionToken>')
+    resumption_token = d[1].split("</resumptionToken>")
 
     return resumption_token[0]
 
 
-def download_xml_files(id: int = 0, token: str = '') -> None:
+def download_xml_files(id: int = 0, token: str = "", limit: int = 3) -> None:
     """
     Download XML files upto the limit,
     or until there is no more data to fetch
     """
-    limit = 3
     if id > limit or token is None:
         LOG.info(f"Finished downloading")
         return None
@@ -80,10 +65,11 @@ def download_xml_files(id: int = 0, token: str = '') -> None:
     if id > 0:
         url = f"{BASE_URL}{API_KEY}?verb=listrecords&resumptiontoken={token}"
 
-    LOG.info(f"Downloading file {id} of maximum {limit}")
+    LOG.info(f"Downloading file {id} of maximum {limit + 1}")
+    # Verify = False because of annoying VPN
     res = requests.get(url=url, verify=False)
     if res.status_code == 200:
-        _write_xml(_clean_xml(res.text), id=id)
+        _write_xml(res.text, id=id)
         LOG.info(f"Finished downloading file {id}")
         token = get_resumption_token(res.text)
 
