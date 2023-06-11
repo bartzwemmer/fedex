@@ -15,7 +15,8 @@ LOG = logging.getLogger(__name__)
 
 spark = SparkSession.builder.getOrCreate()
 sc = spark.sparkContext
-
+# Set the autoBroadcastJoinThreshold large enough to fit the largest dimension table
+spark.conf.set("spark.sql.autoBroadcastJoinThreshold", 1)
 
 def _clean_dates(df: DataFrame, column=str) -> DataFrame:
     """
