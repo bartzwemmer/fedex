@@ -65,7 +65,7 @@ def download_xml_files(id: int = 0, token: str = "", limit: int = 3) -> None:
     if id > 0:
         url = f"{BASE_URL}{API_KEY}?verb=listrecords&resumptiontoken={token}"
 
-    LOG.info(f"Downloading file {id} of maximum {limit + 1}")
+    LOG.info(f"Downloading file {id} of maximum {limit}")
     # Verify = False because of annoying VPN
     res = requests.get(url=url, verify=False)
     if res.status_code == 200:
