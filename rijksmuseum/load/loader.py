@@ -131,4 +131,4 @@ def create_bronze_tables(tags_rdd: RDD) -> None:
 if __name__ == "__main__":
     tags = ["oai_dc", "header"]
     tags_rdd = sc.parallelize(tags)
-    create_bronze_tables(tags=tags_rdd)
+    create_bronze_tables(tags_rdd=tags_rdd)
